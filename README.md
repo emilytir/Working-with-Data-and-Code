@@ -7,7 +7,9 @@
 * Status
 
 # General Info
-This is my A2 Musical Coding Project, featuring my unique composition and interpretation of Lana Del Ray's 'Young and Beautiful'. This coding project sets out to showcase how coding can create a beautiful and immersive experience.
+This is my A2 Musical Coding Project, featuring my unique composition and interpretation of Lana Del Ray's 'Young and Beautiful'.
+
+This coding project sets out to showcase how coding can create a beautiful and immersive experience.
 
 # Technologies
 * Python 3.6
