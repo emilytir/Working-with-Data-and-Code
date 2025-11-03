@@ -1,5 +1,5 @@
 # Working-with-Data-and-Code
 
-This is my A2 project
+This is my A2 Musical Coding Project, featuring my unique composition and interpretation of Lana Del Ray's 'Young and Beautiful'.
 
-Musical Coding
+To access this musical Coding prototype, TunePad will be needed.
